@@ -1,0 +1,17 @@
+.ss{
+    height: 120px;
+    background: none;
+    border-bottom: none;
+}
+.nav-data{
+    padding-top: 20px;
+}
+.im{
+    padding-top: 10px;
+    padding-left: 0;
+    height: 70px;
+    width: 70px;
+}
+ul{
+    list-style: none;
+}
